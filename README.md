@@ -14,6 +14,12 @@
 <p >This is CSV(Comma-Separated Values) File of Data set <a href="Automobile+%281%29.csv" target="blank"> Automobile </a></p>
 <p >This is PBIX(PowerBI) File of Data set <a href="Automobiledashboard.pbix" target="blank"> Automobile Dashboard </a></p>
 
+<h1> Video Game Dashboard</h1>
+<br>
+<img  src="Video Game .pdf" alt="Vgame Dashboard">
+<p >This is CSV(Comma-Separated Values) File of Data set <a href="Power-BI+Data+Set.csv" target="blank"> Video Game Data </a></p>
+<p >This is PBIX(PowerBI) File of Data set <a href="video game .pbix" target="blank"> Video Game  Dashboard </a></p>
+
 
 <h1>These skills helped me enhance my Data Visualization, Analysis, Data Cleaning and Data Modeling! 🚀</h1>
 <h1>Check out the dashboard and share your thoughts/issues! 💡</h1>
