@@ -16,7 +16,7 @@
 
 <h1> Video Game Dashboard</h1>
 <br>
-<img  src="Video Game .pdf" alt="Vgame Dashboard">
+<p> Click on  <a href="Video Game .pdf" alt="Vgame Dashboard">Video Game PDF</a></p>
 <p >This is CSV(Comma-Separated Values) File of Data set <a href="Power-BI+Data+Set.csv" target="blank"> Video Game Data </a></p>
 <p >This is PBIX(PowerBI) File of Data set <a href="video game .pbix" target="blank"> Video Game  Dashboard </a></p>
 
